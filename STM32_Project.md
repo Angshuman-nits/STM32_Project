@@ -109,5 +109,5 @@ This project demonstrates SPI communication between two STM32 microcontrollers (
 ---
 
 ## Author
-- Angshuman Choudhury, K.Sethu Madhav
+- Angshuman Choudhury
 
